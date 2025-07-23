@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Tempo
-Template URL: https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/
+Website de User Obsession, el objetivo es informar de que tratan los servicios ofrecidos
+Tecnologías utilizadas(HTML, CSS, BOOTSTRAP Y JAVASCRIPT)
+Diseñado por Reyes Natalia
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
